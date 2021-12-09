@@ -1,0 +1,29 @@
+item {
+  id: 1
+  name: 'Amount'
+}
+
+item {
+  id: 2
+  name: 'InvoiceNumber'
+}
+
+item {
+  id: 3
+  name: 'InvoiceDate'
+}
+
+item {
+  id: 4
+  name: 'Items'
+}
+
+item {
+  id: 5
+  name: 'Client Info'
+}
+
+item {
+  id: 6
+  name: 'Company Info'
+}

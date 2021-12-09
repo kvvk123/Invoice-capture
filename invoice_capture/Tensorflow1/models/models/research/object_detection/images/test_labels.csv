@@ -1,0 +1,37 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+invoice (75).jpg,600,800,InvoiceDate,51,34,121,51
+invoice (75).jpg,600,800,InvoiceNumber,50,48,154,69
+invoice (75).jpg,600,800,Company Info,339,87,506,154
+invoice (75).jpg,600,800,Client Info,46,156,200,232
+invoice (75).jpg,600,800,Items,54,340,546,573
+invoice (75).jpg,600,800,Amount,455,569,550,602
+invoice (76).jpg,600,800,Company Info,21,56,124,101
+invoice (76).jpg,600,800,Client Info,40,152,173,228
+invoice (76).jpg,600,800,InvoiceNumber,367,60,472,76
+invoice (76).jpg,600,800,InvoiceDate,362,86,483,99
+invoice (76).jpg,600,800,Items,34,251,566,646
+invoice (76).jpg,600,800,Amount,448,675,570,689
+invoice (77).jpg,4130,5380,InvoiceNumber,285,866,1450,1048
+invoice (77).jpg,4130,5380,InvoiceDate,291,1001,1868,1277
+invoice (77).jpg,4130,5380,Client Info,303,1395,4050,2001
+invoice (77).jpg,4130,5380,Company Info,327,119,4033,948
+invoice (77).jpg,4130,5380,Items,321,1907,3968,3842
+invoice (77).jpg,4130,5380,Amount,1903,4407,3974,4630
+invoice (78).jpg,4130,5380,Company Info,333,230,4033,901
+invoice (78).jpg,4130,5380,InvoiceNumber,2844,889,4062,1230
+invoice (78).jpg,4130,5380,InvoiceDate,2821,1213,4027,1507
+invoice (78).jpg,4130,5380,Client Info,315,1154,2838,2107
+invoice (78).jpg,4130,5380,Items,297,2189,3997,3883
+invoice (78).jpg,4130,5380,Amount,2697,4436,4044,4672
+invoice (79).jpg,4130,5380,InvoiceNumber,2427,1048,3909,1189
+invoice (79).jpg,4130,5380,InvoiceDate,2433,1383,3921,1495
+invoice (79).jpg,4130,5380,Client Info,91,983,1721,2207
+invoice (79).jpg,4130,5380,Items,144,2536,3962,3495
+invoice (79).jpg,4130,5380,Amount,2615,3472,3944,3654
+invoice (79).jpg,4130,5380,Company Info,80,4436,919,5380
+invoice (80).jpg,4130,5380,Company Info,256,301,2085,872
+invoice (80).jpg,4130,5380,Client Info,250,866,2115,1630
+invoice (80).jpg,4130,5380,InvoiceNumber,2080,272,2980,489
+invoice (80).jpg,4130,5380,InvoiceDate,3003,289,3833,495
+invoice (80).jpg,4130,5380,Items,285,1925,3874,3960
+invoice (80).jpg,4130,5380,Amount,1427,4007,3903,4125

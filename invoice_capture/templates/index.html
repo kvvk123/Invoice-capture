@@ -1,0 +1,28 @@
+<html>
+<title>Invoice Detection</title>
+<!-- stylesheets -->
+<link href="//maxcdn.bootstrapcdn.com/bootswatch/3.2.0/yeti/bootstrap.min.css" rel="stylesheet" media="screen">
+<link href="{{ url_for('static', filename='main.css') }}" rel="stylesheet">
+<div class="row">
+ 
+  <div class="col-md-7">
+    <h1>Invoice Detection</h1>
+	<h2>Upload an invoice image</h2>
+    <br>
+    <form action="" method=post enctype=multipart/form-data>
+      <input type=file name=file>
+      <input type=submit value=Upload>
+    </form>
+
+    <h2>Results</h2>
+    <div>
+    <img src="{{image}}"  >
+    <p>{{result}}</p>
+    </ddiv>
+    
+  </div>
+ 
+</div>
+
+</html>
+ 
